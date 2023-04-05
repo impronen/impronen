@@ -2,7 +2,7 @@
 
 I'm currently learning web development with The Odin Project. 
 
-🌱 Right now I'm figuring out asynchronous JavaScript and APIs. 
+🌱 Right now, I'm starting my deep dive to the world of Test Drive Development. 
 
 ### Skills (so far)
 
