@@ -2,7 +2,7 @@
 
 I'm currently learning web development with The Odin Project. 
 
-🌱 Right now, I'm exploring recursion and DSA. 
+🌱 Right now, I'm exploring Test Driven Development. 
 
 ### Skills (so far)
 
