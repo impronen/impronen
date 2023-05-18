@@ -3,7 +3,7 @@ Hi 👋 My name is Matti but online I usually go by Antero.
 
 I'm currently learning web development with The Odin Project.
 
-*   🧠  I'm learning Test Driven Development
+Right now I'm rearranging my 🧠 to do some Test Driven Development.
 
 ### Skills 
 <p align="left">
