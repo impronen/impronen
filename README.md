@@ -26,7 +26,7 @@ Hi 👋 My name is Matti but online I usually go by Antero.
 <br>
 <a href="https://github.com/impronen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impronen&langs_count=10&title_color=64748b&text_color=ef4444&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br>
-<a href="http://www.github.com/impronen"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=impronen&bg_color=365314&color=ef4444&line=ef4444&point=ef4444&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <!--
 **impronen/impronen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
