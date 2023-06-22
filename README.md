@@ -1,8 +1,9 @@
 Hi 👋 My name is Matti but online I usually go by Antero.
 ================================================================================================================================================================
 
+* 🧠 diving into React
 * 🌍 based in Finland
-* 🧠  I'm diving into React
+
 
 
 ### Skills 
@@ -22,6 +23,7 @@ Hi 👋 My name is Matti but online I usually go by Antero.
 <a href="http://www.instagram.com/tienaho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 <a href="http://www.github.com/impronen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=impronen&stroke=ef4444&background=365314&ring=64748b&fire=64748b&currStreakNum=ef4444&currStreakLabel=64748b&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+<a href="https://github.com/impronen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impronen&langs_count=10&title_color=64748b&text_color=ef4444&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 <a href="http://www.github.com/impronen"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=impronen&bg_color=365314&color=ef4444&line=ef4444&point=ef4444&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
