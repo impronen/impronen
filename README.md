@@ -1,10 +1,7 @@
 Hi 👋 My name is Matti but online I usually go by Antero.
 ================================================================================================================================================================
 
-* 🧠 diving into React
-* 🌍 based in Finland
-
-
+Right now I'm learning React with The Odin Projects new React course.
 
 ### Skills 
 <p align="left">
